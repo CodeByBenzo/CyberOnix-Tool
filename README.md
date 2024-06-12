@@ -516,16 +516,3 @@ Worlist Generation:
 <a href="https://youtube.com/@defronix"><img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Youtube.svg" width="64" height="64" alt="Youtube Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/>
 <a href="https://www.linkedin.com/company/defronix/"><img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/LinkedIN.svg" width="64" height="64" alt="LinkedIN Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/>
 </p>
-
-<h1 align="left">Support</h1>
-
-<p><a href="https://tools.apgy.in/upi/Nitesh+Singh/niteshkumar5@ybl/" target="_blank"> <img align="left" style="border-radius:8px" src="https://user-images.githubusercontent.com/122822828/216837693-3480fcd2-b4fc-40ff-94f8-c5d7d4b82ad5.png" height="50" width="210" alt="Donate with paypal" /></a></p><br><br><br>
-<p><a href="https://razorpay.me/@technicalnavigator" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/122822828/216838288-a946ef91-f215-4286-926f-afa71d0c3760.png" height="50" width="210" alt="Donate with paypal" /></a></p><br><br>
-
-<div align="center">
-    <h1 id="Contributors">Thanks To All Contributors</h1>
-
-<a href="https://github.com/TeamDefronix/Cyberonix/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=TeamDefronix/Cyberonix" />
-</a>
-</div>
